@@ -14,4 +14,7 @@ Portscanner in Golang
 ## Exemple :
   GoPscan.exe 192.168.1.1 1000 10
 
+## Help :
+  GoPscan.exe -h
+
 ![Image1](gopscan.PNG)
