@@ -9,7 +9,7 @@ Portscanner in Golang
   go build GoPscan.go
 
 ## Usage:
-  usage   : GoPscan.exe <ip> <0-range> <ms>
+  usage   : GoPscan.exe ip 0-range ms
 
 ## Exemple :
   GoPscan.exe 192.168.1.1 1000 10
