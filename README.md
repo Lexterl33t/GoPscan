@@ -13,6 +13,5 @@ Portscanner in Golang
 
 ## Exemple :
   GoPscan.exe 192.168.1.1 1000 10
-  GoPscan.exe www.google.com 1000 160
 
 ![Image1](gopscan.PNG)
