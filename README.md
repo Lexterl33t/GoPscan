@@ -16,5 +16,7 @@ Portscanner in Golang
 
 ## Help :
   GoPscan.exe -h
+  GoPscan.exe --help
+  GoPscan.exe help
 
 ![Image1](gopscan.PNG)
